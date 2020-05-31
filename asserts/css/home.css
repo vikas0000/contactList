@@ -1,0 +1,41 @@
+.contain{
+    width:500px;  
+    margin: 0px auto;  
+
+}
+
+.contain h1{
+    text-align: center;
+    color: gray;
+    border: 2px black solid;
+
+}
+
+.fa-trash-alt{
+    padding: 3px;
+    margin-left:15px;
+    margin-top:15px; 
+    color: black;
+}
+
+.contact{
+    display:flex;
+}
+.detail{
+    display:flex;
+   flex-direction: row; 
+   width: 90%;
+   justify-content: space-between;
+   border-bottom: 2px black solid;
+}
+.delete{
+    display:flex;
+    flex-direction: row; 
+   width: 10%;
+   border-bottom: 2px black solid;
+}
+
+.form1{
+    margin-top: 20px;
+    text-align: center;
+}
